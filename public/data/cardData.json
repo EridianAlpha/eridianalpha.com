@@ -1,11 +1,35 @@
 [
     {
+        "id": "TFYQEJ",
+        "name": "Real World AI",
+        "displayConfig": {
+            "cardType": "highlight"
+        },
+        "summary": "A project looking at the interface of AI and real world applications including robotics, transport, and services.",
+        "startDate": "2026-07-19",
+        "endDate": "",
+        "externalLinks": {},
+        "description": {
+            "0": ""
+        },
+        "images": {
+            "0": {
+                "image": "",
+                "alt": ""
+            },
+            "1": {
+                "image": "",
+                "alt": ""
+            }
+        }
+    },
+    {
         "id": "6JPSX5",
-        "name": "ETHGas Onsite - Hong Kong",
+        "name": "ETHGas Ethereum Scaling - Hong Kong",
         "displayConfig": {
             "cardType": "event"
         },
-        "summary": "A week with the ETHGas team working on Ethereum scaling.",
+        "summary": "A week with the ETHGas team supporting on Ethereum scaling.",
         "startDate": "2026-06-11",
         "endDate": "2026-06-19",
         "externalLinks": {
@@ -434,7 +458,7 @@
         "displayConfig": {
             "cardType": "highlight"
         },
-        "summary": "Working with ETHGas to bring Real Time Ethereum to the world.",
+        "summary": "Supporting ETHGas validators to scale Ethereum.",
         "startDate": "2026-01-12",
         "endDate": "",
         "externalLinks": {
@@ -522,11 +546,11 @@
         "id": "VH5LBB",
         "name": "Neutral Finance",
         "displayConfig": {
-            "cardType": "highlight"
+            "cardType": "project"
         },
         "summary": "Stable by design, neutral by nature.",
         "startDate": "2025-11-19",
-        "endDate": "",
+        "endDate": "2026-07-17",
         "externalLinks": {
             "0": {
                 "url": "https://neutral.finance",
@@ -535,7 +559,7 @@
             }
         },
         "description": {
-            "0": "Project under development..."
+            "0": "A concept project looking at a Swiss Franc backed stable coin. This project didn't result in a stable coin being launched, but was used as a research platform for future DeFi projects."
         },
         "images": {
             "0": {

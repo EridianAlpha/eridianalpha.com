@@ -84,7 +84,7 @@ export default function Overview() {
                                         pr={{ base: "0px", md: "30px" }}
                                         w={{ base: "100%", md: "auto" }}
                                     >
-                                        eridian.eth
+                                        Eridian
                                     </Heading>
                                     <Flex py="10px" flexWrap="wrap" columnGap="10px" alignItems={"center"}>
                                         <HStack gap={0} justifyContent={"start"}>
@@ -105,13 +105,13 @@ export default function Overview() {
                                     </Flex>
                                 </Flex>
                                 <VStack alignItems={"start"} gap={0}>
-                                    {/* <Text fontWeight={"bold"}>Full-Stack Developer 💻</Text> */}
-                                    <HStack gap={0} justifyContent={"start"}>
+                                    <Text fontWeight={"bold"}>Full-Stack Developer 💻</Text>
+                                    {/* <HStack gap={0} justifyContent={"start"}>
                                         <Text fontWeight="bold">Crypto Native</Text>
                                         <Text pb={"10px"} fontSize={"40px"} display="inline-block" lineHeight={0.8} verticalAlign="baseline">
                                             🏕️
                                         </Text>
-                                    </HStack>
+                                    </HStack> */}
                                     <Text>
                                         Hey 👋 I&apos;m Eridian. I have experience in web app design, creating educational
                                         content, writing smart contracts, community creation, and incentives and rewards programs. This portfolio
